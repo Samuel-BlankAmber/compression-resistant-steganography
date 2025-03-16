@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-specific
+*.png
+*.jpg
+*.jpeg
+!linkedin-banner.png
+!linkedin-banner-with-compression.jpg
